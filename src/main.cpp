@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 { 
-    Student andy(1,100);
+    Student andy(2,100);
     cout<<andy.getId()<<endl;
     cout<<"Hello World!"<<endl;
 
